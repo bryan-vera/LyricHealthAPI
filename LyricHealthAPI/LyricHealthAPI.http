@@ -1,0 +1,6 @@
+@LyricHealthAPI_HostAddress = http://localhost:5009
+
+GET {{LyricHealthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
